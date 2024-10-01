@@ -16,9 +16,11 @@
 .films {
     list-style-type: upper-latin;
     color: white;
+    padding-top: 6px;
 }
 
 .acteurs {
     list-style-type: disc;
     color: white;
+    padding-left: 10px;
 }
